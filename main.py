@@ -1,6 +1,7 @@
 def main():
     print("Hello Welcome to your contact list. What is your name?")
             user_name = input()
+            
             print(f"Hello {user_name}. what would you like to do?")
             print('\n')
 
