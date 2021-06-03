@@ -32,3 +32,9 @@ def display_contacts():
     '''
     return Contact.display_contacts()
 
+# def display_contacts():
+#     '''
+#     Function that returns all the saved contacts
+#     '''
+#     return Contact.display_contacts()
+
